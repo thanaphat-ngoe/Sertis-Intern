@@ -1,1 +1,1 @@
-# Sertis-SE-BackEnd-Internship
+# Sertis Software Engineering Assignment
